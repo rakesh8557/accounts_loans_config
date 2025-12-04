@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to GutsBank accounts related Prod APIs"
   email_name:
     name: "Smith - Product Owner"
-    email: "smith@johnson.com"
+    email: "{cipher}744af48dba96b366a66c2d109d539c0ffce6452b91befcfb61065002ecdff998d73ce113464bc24d0ff6aa7d7fe5f653"
   mobile_number:
     - (777)996-1234
+
     - (777)348-9876
