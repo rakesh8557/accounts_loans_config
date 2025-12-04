@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to GutsBank accounts related Prod APIs"
+  message: "Welcome to GutsBank accounts related production APIs"
   email_name:
     name: "Smith - Product Owner"
     email: "{cipher}744af48dba96b366a66c2d109d539c0ffce6452b91befcfb61065002ecdff998d73ce113464bc24d0ff6aa7d7fe5f653"
@@ -10,3 +10,4 @@ accounts:
     - (777)996-1234
 
     - (777)348-9876
+
